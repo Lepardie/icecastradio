@@ -11,9 +11,9 @@
     <burst-on-connect>1</burst-on-connect>
   </limits>
   <authentication>
-    <source-password>hackme</source-password>
+    <source-password>1245</source-password>
     <admin-user>admin</admin-user>
-    <admin-password>hackme</admin-password>
+    <admin-password>1245</admin-password>
   </authentication>
   <hostname>0.0.0.0</hostname>
   <listen-socket>
@@ -21,7 +21,7 @@
   </listen-socket>
   <mount>
     <mount-name>/stream</mount-name>
-    <password>hackme</password>
+    <password>1245</password>
   </mount>
   <fileserve>1</fileserve>
 </icecast>
